@@ -1,11 +1,8 @@
 # BookingforBooks
 “The world is a book and those who do not travel read only one page.” ~ Saint Augustine
 # TravelwhileBeinginPlace
-search engine for books
+Search dedicated to books
 ## Questions
-
- This README file shows and indicates that criteria is met.
-
 >Contact infromation:
 
 You can find
